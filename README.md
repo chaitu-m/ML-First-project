@@ -8,7 +8,7 @@ Test TeachableMachine on your device : https://teachablemachine.withgoogle.com/m
 Heroku link : 
 
 # Controls 
-To move left -- move your head towards  left side<br/>
-To move right -- move your head towards right side<br/>
-To move up -- move your head towards up side<br/>
-To move down -- move your head towards bottom or down side.<br/>
+To move left -- show your hand direction towards  left side<br/>
+To move right -- show your hand direction towards right side<br/>
+To move up -- show your hand direction towards up side<br/>
+To move down -- show your hand direction towards bottom or down side.<br/>
