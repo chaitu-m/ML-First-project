@@ -1,5 +1,5 @@
 # ML-First-project
-Creating a maze game using ml and playing with head movements\n
+Creating a maze game using ml and playing with head movements. 
 (Integrating javascript game with Machine Learning)
 
 # Resources 
