@@ -4,7 +4,7 @@ Creating a maze game using ml and playing with head movements
 
 # Resources 
 Code for Maze game : https://codepen.io/k-hung/pen/eYmQdZq
-Test TeachableMachine on your device : 
+Test TeachableMachine on your device : https://teachablemachine.withgoogle.com/models/x9_nBJPuk/ 
 Heroku link : 
 
 # Controls 
