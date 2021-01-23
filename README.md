@@ -3,7 +3,7 @@ Creating a maze game using ml and playing with head movements<br/>
 (Integrating javascript game with Machine Learning)
 
 # Resources 
-Code for Maze game : https://codepen.io/k-hung/pen/eYmQdZq<br/>
+Code for Maze game : https://code-projects.org/maze-game-in-html5-javascript-with-source-code/
 Test TeachableMachine on your device : https://teachablemachine.withgoogle.com/models/x9_nBJPuk/ <br/>
 Heroku link : 
 
