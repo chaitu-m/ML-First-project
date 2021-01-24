@@ -16,6 +16,6 @@ To move up -- show your hand direction towards up side<br/>
 To move down -- show your hand direction towards bottom or down side.<br/>
 
 # Team Members :
- Mutyalapati Chaitanya -18pa1a05a4
+ Mutyalapati Chaitanya -18pa1a05a4 <br/>
  Kolisetty Adithya Vardhan -18pa1a0575
 
